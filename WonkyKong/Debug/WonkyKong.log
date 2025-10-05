@@ -1,0 +1,3 @@
+﻿  Actor.cpp
+C:\Users\zsom1\Desktop\CS32\Wonky Kong\WonkyKong\WonkyKong\Actor.cpp(171,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  WonkyKong.vcxproj -> C:\Users\zsom1\Desktop\CS32\Wonky Kong\WonkyKong\Debug\WonkyKong.exe
